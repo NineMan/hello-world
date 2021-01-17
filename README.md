@@ -12,7 +12,7 @@ It'my repository
 Запуск проекта:
 ---------------------------------------
 
-Запускаем докер-композ [вот так](https://github.com/NineMan/hello-world/blob/master/README.md#hello-world):
+Запускаем докер-композ [вот так](#hello-world):
 
 `
 docker-compose up
